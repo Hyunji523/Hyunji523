@@ -1,8 +1,8 @@
 
-![header](https://capsule-render.vercel.app/api?type=egg&color=random&height=300&section=header&text=%20Hyunji's%20GitHub%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=egg&color=random&height=300&section=header&text=%20Hyunji's%20GitHub%20&fontSize=70)
 
 
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **Hyunji523/Hyunji523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
