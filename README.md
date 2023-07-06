@@ -12,13 +12,13 @@
   ![Redux](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)
   ![Redux-Saga](https://img.shields.io/badge/Redux%20Saga-999999.svg?&style=for-the-badge&logo=Redux-Saga&logoColor=white)
   ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
-
-  </br-->
-
- ![Hyunji523's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunji523&count_private=true&show_icons=true&include_all_commits=true&hide=stars,contribs)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunji523&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
+  </br-->
+
+ ![Hyunji523's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunji523&count_private=true&show_icons=true&include_all_commits=true&hide=stars,contribs&theme=onedark)
+
   
 </div>
