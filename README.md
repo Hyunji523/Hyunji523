@@ -15,12 +15,10 @@
 
   </br-->
 
- ![Hyunji523's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunji523&count_private=true)
+ ![Hyunji523's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunji523&count_private=true&show_icons=true&include_all_commits=true&hide=stars,contribs)
 <br>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=Hyunji523&theme=light" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunji523&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyunji523%2Fhit-counter&count_bg=%23F7DE51&title_bg=%23AAA589&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
