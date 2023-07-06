@@ -15,7 +15,7 @@
 
   </br-->
 
-  ![hj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunji523&show_icons=true&title_color=54493c&border_color=ebebeb&text_color=54493c&icon_color=f5dc64&count_private=true)
+ ![Hyunji523's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunji523&count_private=true)
 <br>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=Hyunji523&theme=light" />
