@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  ### 🐰 Hi, I'm Hyunji 🐰
+
 
   <!--/br>
 
@@ -16,9 +16,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hyunji523&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
-  </br-->
+  </br
 
- ![Hyunji523's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunji523&count_private=true&show_icons=true&include_all_commits=true&hide=stars,contribs&theme=onedark)
+ ![Hyunji523's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyunji523&count_private=true&show_icons=true&include_all_commits=true&hide=stars,contribs&theme=onedark)-->
 
   
 </div>
